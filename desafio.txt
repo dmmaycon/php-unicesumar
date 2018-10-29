@@ -1,0 +1,7 @@
+1 - Crie um programa com PHP que faça média 10 de alunos com duas notas e mostra média e a situação de cada aluno, se o mesmo está aprovado, recuperação ou reprovado
+
+Maior igual a 6 aprovado
+Entre 4 e 6 recuperação
+Menor 4 reprovado
+
+Mostrar a maior média e menor média
